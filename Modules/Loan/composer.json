@@ -1,0 +1,23 @@
+{
+    "name": "dhavalbhavsar/loan",
+    "description": "",
+    "authors": [
+        {
+            "name": "Dhaval Bhavsar",
+            "email": "dhaval.s.bhavsar@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Loan\\": ""
+        }
+    }
+}
